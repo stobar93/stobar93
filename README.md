@@ -2,7 +2,8 @@
 👋 Hi, I’m Sebastian Tobar @stobar93
 
 + 👀 I’m a Full Stack Developer looking for my first IT job experiencie.
-I have 5 years of experiencie as an Industrial Engineer. I like to integrate both careers to provide practical solutions to complex problems.
++ I have experience using PostgreSQL, Node.js, Express.js, React, Redux. 
+Also, I've worked for almost 5 years as an Industrial Engineer. I like to integrate both careers to provide practical solutions to complex problems.
 
 + 🌱 I’m finishing the bootcamp at Henry. Also I like to take online courses to improve my tech and soft skills.
 Currently I am taking the Git and GitHub professional course on Platzi in order to fully understand the github flow so I can 
